@@ -8,7 +8,7 @@ public class Main {
     public static void main(String[] args) {
 	// write your code here
 
-        String a = "strinygA";
+        String a = "strinygAsdfgsd";
         String b = "dfsdfsdfasdf";
         String c = "asdfasdfasdf";
         String d = "sdafsdfadfaf";
