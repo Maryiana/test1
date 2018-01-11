@@ -8,7 +8,7 @@ public class Main {
     public static void main(String[] args) {
 	// write your code here
 
-        String a = "stringA";
+        String a = "strinygAsdfgsd";
         String b = "dfsdfsdfasdf";
         String c = "asdfasdfasdf";
         String d = "sdafsdfadfaf";
@@ -19,12 +19,16 @@ public class Main {
         listOfStrings.add(b);
         listOfStrings.add(c);
         listOfStrings.add(d);
+        printOurList(listOfStrings);
+
+    }
+
+    public static void printOurList(List listOfStrings) {
 
         for(int i =0; i<listOfStrings.size() ;i++) {
 
             System.out.println(listOfStrings.get(i));
 
         }
-
     }
 }
