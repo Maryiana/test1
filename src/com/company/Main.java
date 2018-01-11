@@ -19,6 +19,11 @@ public class Main {
         listOfStrings.add(b);
         listOfStrings.add(c);
         listOfStrings.add(d);
+        printOurList(listOfStrings);
+
+    }
+
+    public static void printOurList(List listOfStrings) {
 
         for(int i =0; i<listOfStrings.size() ;i++) {
 
