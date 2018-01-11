@@ -8,10 +8,10 @@ public class Main {
     public static void main(String[] args) {
 	// write your code here
 
-        String a = "strinygAsdfgsd";
-        String b = "dfsdfsdfasdf";
-        String c = "asdfasdfasdf";
-        String d = "sdafsdfadfaf";
+        String a = "stringdfsfsdfA";
+        String b = "dfsdfssdfsdfdfasdf";
+        String c = "asdfassdfsdfsdfasdf";
+        String d = "sdafsdfasdfsdfdfaf";
         List<String> listOfStrings;
         listOfStrings = new ArrayList<>();
 
@@ -30,5 +30,6 @@ public class Main {
             System.out.println(listOfStrings.get(i));
 
         }
+
     }
 }
