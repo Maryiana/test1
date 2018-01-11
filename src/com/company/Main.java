@@ -8,10 +8,10 @@ public class Main {
     public static void main(String[] args) {
 	// write your code here
 
-        String a = "stringA";
-        String b = "dfsdfsdfasdf";
-        String c = "asdfasdfasdf";
-        String d = "sdafsdfadfaf";
+        String a = "stringdfsfsdfA";
+        String b = "dfsdfssdfsdfdfasdf";
+        String c = "asdfassdfsdfsdfasdf";
+        String d = "sdafsdfasdfsdfdfaf";
         List<String> listOfStrings;
         listOfStrings = new ArrayList<>();
 
